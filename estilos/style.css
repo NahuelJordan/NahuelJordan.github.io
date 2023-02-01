@@ -107,6 +107,10 @@
         background-color: #F5EA5A;
         
     }
+
+    .btn-2:hover{
+        background-color: #F7F7F7;
+    }
     
     .btn-3 {
         border: 1px solid blue;
@@ -118,6 +122,10 @@
         box-shadow: -10px 5px 3px rgb(0 0 0 / 35%);
         padding-top: 10px;
         background-color: #F5EA5A;
+    }
+
+    .btn-3:hover{
+        background-color: #F7F7F7;
     }
     
     footer{
