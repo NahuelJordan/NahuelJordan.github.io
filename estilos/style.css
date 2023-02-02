@@ -57,6 +57,7 @@
     section{
     
         height: 350px;
+        margin: 15px;
     }
     
     .descripcion{
@@ -64,7 +65,7 @@
     }
     
     .contenedor-botones{
-        padding-top: 10px;
+        padding-top: 25px;
         height: 150px;
     }
     
